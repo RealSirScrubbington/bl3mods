@@ -65,7 +65,7 @@ SparkPatchEntry,(1,1,0,),/Game/GameData/Loot/ItemPools/Unique/ItemPool_GraveandW
 
 # Increase Graveward Health (165 is low?) (trying 420.0, 420 was kinda tough with amp moze) (666?)
 # 666 was tough
-SparkCharacterLoadedEntry,(1,2,0,BPChar_EdenBoss),/Game/Enemies/EdenBoss/_Shared/_Design/Balance/Table_Balance_EdenBoss_PT1.Table_Balance_EdenBoss_PT1,EdenBoss,HealthMultiplier_01_Primary_9_07801BE24749AFC87299AD91E1B82E12,0,,2400
+SparkCharacterLoadedEntry,(1,2,0,BPChar_EdenBoss),/Game/Enemies/EdenBoss/_Shared/_Design/Balance/Table_Balance_EdenBoss_PT1.Table_Balance_EdenBoss_PT1,EdenBoss,HealthMultiplier_01_Primary_9_07801BE24749AFC87299AD91E1B82E12,0,,1200
 
 # Increase Graveward Damage (15 was kinda tought) (30?)
 SparkCharacterLoadedEntry,(1,2,0,BPChar_EdenBoss),/Game/Enemies/EdenBoss/_Shared/_Design/Balance/Table_Balance_EdenBoss_PT1.Table_Balance_EdenBoss_PT1,EdenBoss,DamageMultiplier_LevelBased_23_3CAF34804D650A98AB8FAFAB37CB87FF,0,,40.0
